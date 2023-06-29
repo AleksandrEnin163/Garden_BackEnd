@@ -5,7 +5,7 @@
 This is an API that you need to download and run locally. You don't need to modify or refactor it. This project will represent the back-end of your project.
 
 ## Commands to run the API
-
+### `npm i`
 ### `npm run dev`
 
 ## API Links
